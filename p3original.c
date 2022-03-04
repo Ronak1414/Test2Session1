@@ -1,3 +1,4 @@
+//code3
 #include<stdio.h>
 int input()
 {

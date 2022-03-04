@@ -1,3 +1,4 @@
+//code6
 #include<stdio.h>
 void input_string(char *string,char *substring)
 {
